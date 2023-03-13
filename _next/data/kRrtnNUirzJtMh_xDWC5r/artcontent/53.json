@@ -1,0 +1,1 @@
+{"pageProps":{"datas":{"id":53,"art_title":"后期优化点","art_content":"<ol><li>首页加载数据限制，下拉刷新</li><li>视频功能加上？（痛点：服务器存储不够）</li><li>资源整理</li><li>服务器数据区emoji字符集还未更新！</li><li>手机访问适配，媒体查询</li><li>其他板块探索</li></ol>","art_author":"yellow star","art_createtime":"2022-10-10T08:34:06.000Z","art_tags":null}},"__N_SSG":true}
